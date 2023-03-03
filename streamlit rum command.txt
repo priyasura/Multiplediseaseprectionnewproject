@@ -1,1 +1,0 @@
-streamlit run "D:\MultipleDiseasePrediction\multiplediseasesprediction_public.py"
